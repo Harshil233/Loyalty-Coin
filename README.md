@@ -19,3 +19,7 @@
 
 * Libraries - Matplotlib’s Pyplot library, Altair, Plotly GraphViz, Pandas, Numpy, CSV.
 * Website - HTML5, CSS3, Bootstrap, JavaScript, NodeJS, ExpressJS, MongoDB, ReactJS
+
+# Our Presentation
+
+* https://drive.google.com/file/d/1a_DTanPA4AOlrpOiW53x957Byi6lM1-O/view?usp=drivesdk
