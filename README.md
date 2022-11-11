@@ -18,5 +18,4 @@
 # Implementation
 
 * Libraries - Matplotlib’s Pyplot library, Altair, Plotly GraphViz, Pandas, Numpy, CSV.
-* Data VisualizationFramework - Streamlit
-* Documentaion - Pandas documentation, Streamlit documentation 
+* Website - HTML5, CSS3, Bootstrap, JavaScript, NodeJS, ExpressJS, MongoDB, ReactJS
